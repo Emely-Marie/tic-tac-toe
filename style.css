@@ -1,1 +1,8 @@
-/* Write all your CSS style code in this file! */
+#game-board {
+  background-color: black;
+}
+
+#toe {
+  fill: pink;
+  border: 3px blue dotted;
+}
