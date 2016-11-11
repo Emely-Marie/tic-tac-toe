@@ -1,8 +1,7 @@
 #game-board {
-  background-color: black;
+  background-color: white;
 }
 
 #toe {
-  fill: pink;
-  border: 3px blue dotted;
+  fill: white;
 }
